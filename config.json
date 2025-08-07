@@ -84,6 +84,10 @@
     "fanhao": {
       "api": "http://fhapi9.com/api.php/provide/vod",
       "name": "番号资源"
+    },
+    "fanhao": {
+      "api": "https://mozhuazy.com/api.php/provide/vod/at/xml",
+      "name": "魔抓采集"
     }
   }
 }
